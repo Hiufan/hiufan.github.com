@@ -21,10 +21,10 @@
 	<xmp>
 	<div class="text">{{{text}}}</div>
 	<span class="size">{{size}}</span>
-	<a class="home" href="#/home">🏠 返回首页</a>
+	<a class="home" href="#/home">馃彔 杩斿洖棣栭〉</a>
 	</xmp>
 </article>
-<footer>© <script>document.write(new Date().getFullYear());</script> Hiufan</footer>
+<footer>漏 <script>document.write(new Date().getFullYear());</script> Hiufan</footer>
 <script>
 var
 gitConfig={
